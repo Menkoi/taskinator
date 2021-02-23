@@ -9,6 +9,7 @@
   
  ## Installation
   click the link to visit the website
+  https://menkoi.github.io/taskinator/
   
  ## Questions? Contact me
 
