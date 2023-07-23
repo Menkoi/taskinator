@@ -11,13 +11,6 @@
   click the link to visit the website
   https://menkoi.github.io/taskinator/
   
- ## Questions? Contact me
-
-  - Menkoi
-
-  - https://github.com/Menkoi
-
-  - celaeon@gmail.com
   
 
   
